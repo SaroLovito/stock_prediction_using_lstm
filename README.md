@@ -1,4 +1,3 @@
-
 • Downloading stock data from Yahoo Finance I answered these questions: 
 
 1.) What was the change in price of the stock over time?             
